@@ -1,0 +1,184 @@
+{
+  "betterf3": {
+    "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/RbNy07Bx/BetterF3-4.0.0-Fabric-1.19.2.jar",
+    "hashes": {
+      "sha1": "1bbc527d23b53e0aae4d5e1deddf92b1f394b94b",
+      "sha512": "6982752e73cd3affebed3d27f81f4bb21e60f0514ac503d0687480edce96fb3056db800ccfa492cbba364e1ae3e73a98948c45b4688c81eea5f03ffb6e7c849f"
+    }
+  },
+  "chat-signing-hider": {
+    "url": "https://cdn.modrinth.com/data/6KrNtW32/versions/Cx0521dy/chatsigninghider-1.19.2-1.0.0.jar",
+    "hashes": {
+      "sha512": "d113fa06c4dc954228a4303bef61cf37323a7eb3b13709108a0e24660530fa67d6a3f60f376c2831a5e6e55e4369741c7178d0b7c63969bc5209044fd0f55f90",
+      "sha1": "6b57a8926421b67bf7f25351f6ce8ca1b3b71572"
+    }
+  },
+  "ebe": {
+    "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/fZx04xgT/enhancedblockentities-0.7.2%2B1.19.2.jar",
+    "hashes": {
+      "sha1": "fde7ffee932782c7718fd0596864aa9058b7b93c",
+      "sha512": "3c6fe6479de6d8c9735164eb62ecb55ecb9de0cc7405cda34c125f5356428c90a37bed8ae66e0b89acb1df957a670ce55f3d0024c76ebd075f81315f055b0a14"
+    }
+  },
+  "fabric-api": {
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hfsU4hXq/fabric-api-0.76.0%2B1.19.2.jar",
+    "hashes": {
+      "sha1": "f29a349b29324338ebe3acaa2914637008be15f4",
+      "sha512": "4524c26af66bf266eb076bfd1682fa06d36f0b8ee7af46fc070447e2fb31885aa3d212a5a7dbfaebf57ba69e939cbd2d6e500055c246640cd0d5845c7712d625"
+    }
+  },
+  "ferrite-core": {
+    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar",
+    "hashes": {
+      "sha1": "4a124f8205e39b84a156db2d1e435c5708328d7b",
+      "sha512": "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
+    }
+  },
+  "immediatelyfast": {
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4yVqQKQO/ImmediatelyFast-1.1.12%2B1.19.jar",
+    "hashes": {
+      "sha512": "a8c2067eb714fb9332984e2ea702934bf543c807de87dbc768c60cdc963869d21e53af2ceda8500dd0c11405bf4cb2c320a5eccfda99b76c9017bc3607b35292",
+      "sha1": "3b2f9983b96e596ccfddf6deb9e5aa972dbc9a66"
+    }
+  },
+  "iris": {
+    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/7MJ26Y79/iris-mc1.19.2-1.6.2.jar",
+    "hashes": {
+      "sha1": "3695441941e6807f38469106758073d9abe07c4e",
+      "sha512": "6ae1ac44041d5384293fdc6adbe7a5563f6bd74b1e19c7268a57173404f030ca21aff1919ea2277dba157260f75d4a995fb9d1a81656bc050fc2b701024fcb02"
+    }
+  },
+  "item-model-fix": {
+    "url": "https://cdn.modrinth.com/data/B3HO5V57/versions/1.0.3%2B1.19/item-model-fix-1.0.3%2B1.19.jar",
+    "hashes": {
+      "sha512": "6bbc981a310f1fa1f33cd7f2edc1bff66d677b768cabb5f0960cf40941de762191b29334345bccdb493d071a17c96dbb02157dd0370de4555084cefc30bdf5c5",
+      "sha1": "3bc98ae80c3546dfcdc63c762c236895b7b2a845"
+    }
+  },
+  "jcm": {
+    "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/ZZorLiR4/Joban-Client-Mod-1.19.2-1.2.1-hotfix-1.jar",
+    "hashes": {
+      "sha1": "e19c74b805c2ce063cdf750d92b070da7ede01c3",
+      "sha512": "e8561397f54d1af1e16a0d84fcbbd2bc263cf1f8325c2de3bc2e4c8a63b8673fe0a24c80256b4e13aab525b981e8943ef35891e08d6823f7361e72f300ffdc65"
+    }
+  },
+  "lambdynamiclights": {
+    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/YQkZSlfq/lambdynamiclights-2.2.0%2B1.19.2.jar",
+    "hashes": {
+      "sha512": "394fe331deaf0d3f52254fffbbd9a71d230dc0c7a594d493048f62e406f1fd51bdb11034eab538e25d55245a038486059a603ad522d1606467f63aaf0a926ae1",
+      "sha1": "a2f8ab8fc203a6b4a2d2a756ab5e74ac621ebfdd"
+    }
+  },
+  "language-reload": {
+    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/dcnETi7o/language-reload-1.5.6%2B1.19.2.jar",
+    "hashes": {
+      "sha512": "dee8a2916dd0598dc088ea9400386da9d4446da8f26b39bbbb49cab48410df35a8a86ec97ce6219e62c5f4aa81da24cf1f651146dd74fd63197235d35f058931",
+      "sha1": "3461ca43274a1f23b6cc00f05002503cdd992099"
+    }
+  },
+  "lazydfu": {
+    "url": "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar",
+    "hashes": {
+      "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
+      "sha512": "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a"
+    }
+  },
+  "memoryleakfix": {
+    "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/PtXTwQt6/memoryleakfix-fabric-1.17%2B-1.0.0.jar",
+    "hashes": {
+      "sha512": "e503dffbb091a421017e942a185f87aa3aaeca8c489e272c06655ac443a3d07e9d7400b564fc5cb468e5990ca02c3ee96d19e525fb887d0625be7ad5a1126db4",
+      "sha1": "899018ccd70447efe2f198701aeb52bd5eed7c12"
+    }
+  },
+  "minecraft-transit-railway": {
+    "url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/H0yHV2yE/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar",
+    "hashes": {
+      "sha1": "eb9ef66565792eae34882a2f52d1a595aa5e7b89",
+      "sha512": "275e42ed4e9074d4699b776450ff696871a95fbfe7a3eb177eb7f502591ea271956e68d08329c6b588fd905b98b9c1140e926795c760f07a26feed2dd174439e"
+    }
+  },
+  "mtr-nte": {
+    "url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/DqBT12eY/MTR-NTE-fabric-1.19.2-0.3.0.jar",
+    "hashes": {
+      "sha1": "1cc04fd6e303d3074087e9a166f1811c67086791",
+      "sha512": "e0c92f154512e91f897ef4a92932a7d632da1920982fcdb0cb1dc512935368188bc6c38fe1db6bb994a9113bc25e90a56da0f717a9623c9b8c0f14109ffbe8f8"
+    }
+  },
+  "modmenu": {
+    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/gSoPJyVn/modmenu-4.2.0-beta.2.jar",
+    "hashes": {
+      "sha1": "6e627ee1b31f5be89e14c85e888f47463d8da9c2",
+      "sha512": "38abddc67502e3f6b08962e13777278d3e88c3ac4d22584636362fb828bd36a0f4313747cc3023afbc9d958ca7dccad13527299b05ea492f80bb6fef8d364726"
+    }
+  },
+  "station-decoration": {
+    "url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/sHGUYPLq/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.3-hotfix-1.jar",
+    "hashes": {
+      "sha512": "9fca219a354bd1eb964e3587760856666454a54f00a4106098d07fb73a1db0e24d9a9d6c97a320cbfb9b05415635c53cebb61c5167dc8327d8055b88c15f37d5",
+      "sha1": "8b5676e5bb925c26644ad7b7a7e8bf57162d9e2d"
+    }
+  },
+  "mixintrace": {
+    "url": "https://cdn.modrinth.com/data/sGmHWmeL/versions/1.1.1%2B1.17/mixintrace-1.1.1%2B1.17.jar",
+    "hashes": {
+      "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
+      "sha512": "ea9034b60bc1c64629a9bcad2e619907692fe6e7464026236c55cc5a4892a20d21dd6318ad0380ab2ec245f7077939b6717d2ed58e00708c17470be14f5e0b5f"
+    }
+  },
+  "reeses-sodium-options": {
+    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/hkSQ9RqT/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar",
+    "hashes": {
+      "sha1": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4",
+      "sha512": "c9b5d1b8efdb388fb8a96f241097ab8dd3cf296a1e7ecf2004deaae237d84d7b75fde7439206cea6408bf5d43cf2d36522a344727a15d3cecd36779ee72e301e"
+    }
+  },
+  "server-redirect": {
+    "url": "https://cdn.modrinth.com/data/YqkxTQEh/versions/1.4.4/ServerRedirect-FabricMC19-1.4.4.jar",
+    "hashes": {
+      "sha512": "d1be88c7a66c967672747fdecc07f01db540c297c9f816d7634240ac3f34f739c115f47adbd45786af5cffcae356233640c18beef6edf820771810e8b9af6b7e",
+      "sha1": "ad23f3ce9e4ea176002db7a19e59d2efb5a872be"
+    }
+  },
+  "slideshow-fabric": {
+    "url": "https://cdn.modrinth.com/data/CvIO1eYD/versions/iqHVXEsO/Slideshow-fabric-1.19.2-1.0.2-hotfix-1.jar",
+    "hashes": {
+      "sha512": "3ca871be53c9c9b4d5a95e68ce4e89094b541d3478f05413e6631bc52311e15a038202c305637d97e36ee503b58d4514633a9808a5ce474ddd79dc898f8a6f12",
+      "sha1": "4a08d8db681702c0ed6a02a663b037216adfc86d"
+    }
+  },
+  "smoothboot-fabric": {
+    "url": "https://cdn.modrinth.com/data/FWumhS4T/versions/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar",
+    "hashes": {
+      "sha512": "dfe62d6ae465baa6b60249f271508bb97e5f07f663c018658dfb940f99e7fce5fa9f5b6c15e555db34b02f8db9d8e6350cb120e10469ff809480173fb8b0da49",
+      "sha1": "8414cbce145a5f48102e6cc811dfd1459afe44f3"
+    }
+  },
+  "sodium": {
+    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar",
+    "hashes": {
+      "sha512": "8fbe5ada5c45efd56596bcf0c5d93d7a7264f60263289626e9d2b0ba3b3ccc914af2d9f856596a724df675804e9766a3d890d1731957fe960c58a45f0533b34e",
+      "sha1": "227648dc4f6a8604bafc282612a6de47eff70cd8"
+    }
+  },
+  "sodium-extra": {
+    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar",
+    "hashes": {
+      "sha512": "cda3631f43cecbe32590740ccd08be4d4616b8f43f275a777f7995ebf92ca06cead4d98c928208943d0baa778f43a8bdfb52fc9a6f39911a76d6acac699267b5",
+      "sha1": "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
+    }
+  },
+  "spark": {
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/XhFbpH8f/spark-1.10.37-fabric.jar",
+    "hashes": {
+      "sha512": "c5fa2d48e1805094416c92175f147c440672133b00a79f73602d198139ca98f330217bd4337b986d29fc7f5346f98a71960452aac623c1e004482808bd5f03f0",
+      "sha1": "11ca9a59e95b50a9cbfb3b1e14b8bfd7cfa7e31c"
+    }
+  },
+  "starlight": {
+    "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar",
+    "hashes": {
+      "sha512": "68f81298c35eaaef9ad5999033b8caf886f3c583ae1edc25793bdd8c2cbf5dce6549aa8d969c55796bd8b0d411ea8df2cd0aaeb9f43adf0691776f97cebe1f9f",
+      "sha1": "de6fe932555604345477db89b59d59249909c640"
+    }
+  }
+}
