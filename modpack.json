@@ -1,0 +1,32 @@
+{
+    "minecraft_version": "1.19.2",
+    "modloader": "fabric",
+    "list": [
+        "betterf3",
+        "chat-signing-hider",
+        "ebe",
+        "fabric-api",
+        "ferrite-core",
+        "immediatelyfast",
+        "iris",
+        "item-model-fix",
+        "jcm",
+        "lambdynamiclights",
+        "language-reload",
+        "lazydfu",
+        "memoryleakfix",
+        "minecraft-transit-railway",
+        "mtr-nte",
+        "modmenu",
+        "station-decoration",
+        "mixintrace",
+        "reeses-sodium-options",
+        "server-redirect",
+        "slideshow-fabric",
+        "smoothboot-fabric",
+        "sodium",
+        "sodium-extra",
+        "spark",
+        "starlight"
+    ]
+}

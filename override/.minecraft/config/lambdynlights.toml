@@ -1,0 +1,57 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				panda = true
+				bee = true
+				donkey = true
+				cow = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				pig = true
+				slime = true
+				iron_golem = true
+				llama = true
+				skeleton = true
+				area_effect_cloud = true
+				bat = true
+				zombified_piglin = true
+				cat = true
+				rabbit = true
+				firework_rocket = true
+				zombie = true
+				armor_stand = true
+				drowned = true
+				sheep = true
+				player = true
+				item = true
+				turtle = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				elder_guardian = true
+				goat = true
+				furnace_minecart = true
+				boat = true
+				item_frame = true
+				polar_bear = true
+				hopper_minecart = true
+				horse = true
+				minecart = true
+				painting = true
+				leash_knot = true
+				cave_spider = true
+				glow_item_frame = true
+				parrot = true
+				spider = true
+				lightning_bolt = true
+
