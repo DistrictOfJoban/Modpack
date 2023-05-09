@@ -22,19 +22,17 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Execute update check
+        id: updchk
         continue-on-error: true
-        run: |
-            echo "SUCCESS=false" >> $GITHUB_ENV
-            node index.js
-            if [ "$?" = 0 ]; then echo "SUCCESS=true" >> $GITHUB_ENV; fi
+        run: node index.js
       - name: Commit back cache file
-        if: ${{ env.SUCCESS }}
+        if: ${{ steps.updchk.outcome == 'success' }}
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
             file_pattern: '*.json'
             commit_message: 'Update modpack cache'
       - name: Create release
-        if: ${{ env.SUCCESS }}
+        if: ${{ steps.updchk.outcome == 'success' }}
         uses: softprops/action-gh-release@v1
         with:
           draft: false
