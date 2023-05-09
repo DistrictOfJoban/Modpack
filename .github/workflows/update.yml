@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 18
       - name: Get Current Date
-        run: echo "CURDATE=$(date +'%d%m%Y')" >> $GITHUB_ENV
+        run: echo "CURDATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Install dependencies
         run: npm install
       - name: Execute update check
