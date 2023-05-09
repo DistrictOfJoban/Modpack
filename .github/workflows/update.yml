@@ -22,6 +22,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Execute update check
+        continue-on-error: true
         run: |
             echo "SUCCESS=false" >> $GITHUB_ENV
             node index.js
