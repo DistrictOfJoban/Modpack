@@ -112,6 +112,7 @@ const MODRINTH_URL = "https://api.modrinth.com/v2";
         await generateZipArchive(tempPkgPath, 'modpack.zip');
         fs.rmSync(tempModFolder, { recursive: true, force: true });
         fs.rmSync(tempPkgPath, { recursive: true, force: true });
+        writeCacheFile(cacheData);
         
         process.exit(0);
     }
