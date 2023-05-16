@@ -112,10 +112,10 @@
     }
   },
   "station-decoration": {
-    "url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/sHGUYPLq/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.3-hotfix-1.jar",
+    "url": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/reTghZD5/MTR-MSD-Addon-fabric-1.19.2-3.2.0-1.3.4.jar",
     "hashes": {
-      "sha512": "9fca219a354bd1eb964e3587760856666454a54f00a4106098d07fb73a1db0e24d9a9d6c97a320cbfb9b05415635c53cebb61c5167dc8327d8055b88c15f37d5",
-      "sha1": "8b5676e5bb925c26644ad7b7a7e8bf57162d9e2d"
+      "sha1": "c2bcfcf792c192c4a4b05812a0173e240d93ce7a",
+      "sha512": "28225984aa52e97d60d2df0788ddc82419df23de8f53b82a2e65e6229a7e7da6dc53c89a30093b758f541e7480a0d348612f7099665421f84116cea66264d76f"
     }
   },
   "mixintrace": {
