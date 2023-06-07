@@ -42,10 +42,10 @@
     }
   },
   "iris": {
-    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/7MJ26Y79/iris-mc1.19.2-1.6.2.jar",
+    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/9YEwbzW6/iris-mc1.19.2-1.6.4.jar",
     "hashes": {
-      "sha1": "3695441941e6807f38469106758073d9abe07c4e",
-      "sha512": "6ae1ac44041d5384293fdc6adbe7a5563f6bd74b1e19c7268a57173404f030ca21aff1919ea2277dba157260f75d4a995fb9d1a81656bc050fc2b701024fcb02"
+      "sha1": "2420090afb4c08cc82614c26b82c6f3958f06ad8",
+      "sha512": "22648451316c0a9c7d28e1fe287ad1d3d96938feab9f5a34b45499b132b52713d40a71973a06108053cc5fc19617b6b0fa712fd38d5833616b694f842de4f3a9"
     }
   },
   "item-model-fix": {
