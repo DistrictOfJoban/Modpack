@@ -56,10 +56,10 @@
     }
   },
   "jcm": {
-    "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/ZZorLiR4/Joban-Client-Mod-1.19.2-1.2.1-hotfix-1.jar",
+    "url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/3iTM5zFY/Joban-Client-Mod-1.19.2-1.2.2.jar",
     "hashes": {
-      "sha1": "e19c74b805c2ce063cdf750d92b070da7ede01c3",
-      "sha512": "e8561397f54d1af1e16a0d84fcbbd2bc263cf1f8325c2de3bc2e4c8a63b8673fe0a24c80256b4e13aab525b981e8943ef35891e08d6823f7361e72f300ffdc65"
+      "sha1": "f0059cce25b948d50f413008e6acc8aa85747cca",
+      "sha512": "6823c2e5a0e4730ba5bee4b2c9a8ddef3579f31c90821a4193c129f9c7c36c212ea12ea7669f6c71de2a77244848a67b66f84ea9abb1b1b87e31b82b9445dd53"
     }
   },
   "lambdynamiclights": {
