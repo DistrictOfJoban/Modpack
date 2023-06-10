@@ -84,10 +84,10 @@
     }
   },
   "memoryleakfix": {
-    "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/PtXTwQt6/memoryleakfix-fabric-1.17%2B-1.0.0.jar",
+    "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/ES2a9WYG/memoryleakfix-fabric-1.17%2B-1.1.0.jar",
     "hashes": {
-      "sha512": "e503dffbb091a421017e942a185f87aa3aaeca8c489e272c06655ac443a3d07e9d7400b564fc5cb468e5990ca02c3ee96d19e525fb887d0625be7ad5a1126db4",
-      "sha1": "899018ccd70447efe2f198701aeb52bd5eed7c12"
+      "sha1": "79e90d6522f9486ca058c12fb4e90de6ab1e6dfa",
+      "sha512": "74257d9f065147057b6c5da1480d9f4e57660f5f26f38dd793baeb2fbf96651abf856baf2a2584bc096fd82ad27bd2500423666463e8ab7f016941f63599939e"
     }
   },
   "minecraft-transit-railway": {
