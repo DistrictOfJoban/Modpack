@@ -180,5 +180,33 @@
       "sha512": "68f81298c35eaaef9ad5999033b8caf886f3c583ae1edc25793bdd8c2cbf5dce6549aa8d969c55796bd8b0d411ea8df2cd0aaeb9f43adf0691776f97cebe1f9f",
       "sha1": "de6fe932555604345477db89b59d59249909c640"
     }
+  },
+  "entity-collision-fps-fix": {
+    "url": "https://cdn.modrinth.com/data/GiriLmaY/versions/2.0.0.0/Entity_Collision_FPS_Fix-fabric-1.19-2.0.0.0.jar",
+    "hashes": {
+      "sha1": "79c5af9ebdf16051a2bf5fece904646190595630",
+      "sha512": "746c19d29f3c36283f43f7364ae59c2393dbb1a85f524e0dc466cd48ab9cbdf7ad695ee8b84cc10cdc113cc220ed7f4dde9e42efa8a449395e37c0c80c51678f"
+    }
+  },
+  "forcecloseworldloadingscreen": {
+    "url": "https://cdn.modrinth.com/data/blWBX5n1/versions/1.1.1/forcecloseloadingscreen-1.1.1.jar",
+    "hashes": {
+      "sha512": "9e481e744e19d946c8ca641c0bc1c665dcbfdeb057f3d322623194c6fc68c1acc8e0ca968d9d79284504fd224ae31eef58a5cf01cf6ca1bde477e2ae564ba184",
+      "sha1": "115b4f31863d3131f73a201656f5cfd98648fdd6"
+    }
+  },
+  "minecraftclientgobrrr": {
+    "url": "https://cdn.modrinth.com/data/nFCedC7H/versions/zszfzyxq/MinecraftClientGobrrr-1.1-MC1.19.2.jar",
+    "hashes": {
+      "sha512": "66ad6e0530c38f497780729c301a0f285452877384710d374a4c7b6845e6885d99c9b7c50d57a4dfc8ea033cdb049163cc9ede8d5d05aa6982120a370903428e",
+      "sha1": "ab4aa102b68520c66954e81da170d50d6d647eeb"
+    }
+  },
+  "no-telemetry": {
+    "url": "https://cdn.modrinth.com/data/hg77g4Pw/versions/l9SfLZDA/no-telemetry-1.7.0.jar",
+    "hashes": {
+      "sha1": "6caa14083d087d0fc0b6af47d0e5d27196816150",
+      "sha512": "b670d6175495166a6a6a04dc33f040035067fec78682148796e7f0223c071ea23d7ba14637105765773c6b1af3d2f13a993925b2d3b6464eb9c70f5f6f5a2a28"
+    }
   }
 }
