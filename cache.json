@@ -98,10 +98,10 @@
     }
   },
   "mtr-nte": {
-    "url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/OFWNxAkw/MTR-NTE-fabric-1.19.2-0.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/hwV8kBZM/MTR-NTE-fabric-1.19.2-0.3.3.jar",
     "hashes": {
-      "sha1": "9209b4bfd32bfb7897c293c49f1f8a9e859da078",
-      "sha512": "8ac98f904450370e469cd0533fdcac902a32d1db7a3beae6876ac3562f93f0004c860ef3774f694c7eb14160df7c237cb8f76b8624b3ca599065209e233efb73"
+      "sha1": "3f48c0ca3c1c5798ddc1f7908741fe988cda40a0",
+      "sha512": "8deb6d50fa7af9683b605e61e24c249b4ba6d1ee36d35d0e636dd2280ba45e4300516bb14ec53670175bda4ac84753a10030ac3d0aa825a5670d217ee53f9842"
     }
   },
   "modmenu": {
