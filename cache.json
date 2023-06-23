@@ -70,10 +70,10 @@
     }
   },
   "language-reload": {
-    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/IhxkJbc2/language-reload-1.5.7%2B1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/Lpzeqtz8/language-reload-1.5.8%2B1.19.2.jar",
     "hashes": {
-      "sha1": "ebf9d2e832e6630536363dbb05fb06a23526c892",
-      "sha512": "332434c102c80278ef58ffa8d9a414ef9cd3446ece8faa4dad0f6bb45f6182855cfd7fcabb5b4207615f8f23684bc0f5aace1f4a662d4756504109f7369ce50c"
+      "sha1": "093ac4708577adb7436115dc0a92d629d1ac8276",
+      "sha512": "3cb873b4ca9d3a356390bdac6258615041f534eb36512b8d0950b59c8374074161918e4ea794531f787acd421bd62aee14770aa10f9d61ed67fec9e0cbcf5667"
     }
   },
   "lazydfu": {
