@@ -161,10 +161,10 @@
     }
   },
   "reeses-sodium-options": {
-    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/hkSQ9RqT/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar",
+    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/8CKyqPyU/reeses_sodium_options-1.6.0%2Bmc1.19.2-build.78.jar",
     "hashes": {
-      "sha1": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4",
-      "sha512": "c9b5d1b8efdb388fb8a96f241097ab8dd3cf296a1e7ecf2004deaae237d84d7b75fde7439206cea6408bf5d43cf2d36522a344727a15d3cecd36779ee72e301e"
+      "sha1": "9da83d3e073373cd4bb9b3906a7627e481aa303a",
+      "sha512": "ec5faeed2fb564a3abadd01d29fb3d31d3d1c2fc35cbf41fc59c8520ea7c191975eefbb3c055f9a43fb34dac2c6b458fcde54c9b1d27bd43d25acedac3ff231d"
     }
   },
   "server-redirect": {
