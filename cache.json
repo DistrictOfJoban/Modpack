@@ -105,10 +105,10 @@
     }
   },
   "modernfix": {
-    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/YWxJmxJY/modernfix-fabric-5.6.0%2Bmc1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/YRcPOXZH/modernfix-fabric-5.6.1%2Bmc1.19.2.jar",
     "hashes": {
-      "sha1": "a9d6bb29bb6688f01224062842c8d3577c8c71e1",
-      "sha512": "4b1ed8f3e7cc24e4e9daf59109134b0c6e78dddcca69a126da3e6687bfa9a6ce5c8a6bb2c6e132d97396e0b6d3f8493b656a8d12e82b8098a421cbb4725931ed"
+      "sha1": "764ce6269a8414c272b96e0880ca3ab1be2063a3",
+      "sha512": "c62daed552f9e0cbcfd3ac121d9254c91e7c3ccb771c3cb9c6472111c0b724000ae7fb57d42254b81a250705cc03beae0f23fdc3ba085d8ef71eff21d99cb542"
     }
   },
   "minecraft-transit-railway": {
