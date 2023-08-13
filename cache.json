@@ -28,10 +28,10 @@
     }
   },
   "fabric-api": {
-    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/hfsU4hXq/fabric-api-0.76.0%2B1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/fO05PwUR/fabric-api-0.76.1%2B1.19.2.jar",
     "hashes": {
-      "sha512": "4524c26af66bf266eb076bfd1682fa06d36f0b8ee7af46fc070447e2fb31885aa3d212a5a7dbfaebf57ba69e939cbd2d6e500055c246640cd0d5845c7712d625",
-      "sha1": "f29a349b29324338ebe3acaa2914637008be15f4"
+      "sha1": "1f4ea036c5cdc7931a663deb85abc279d00c81c5",
+      "sha512": "e2954043f33415b3d2cc56cb1c05dadd0ffe13eb865aa9e9c5063b66021dc110a891d80a3b31773c8c8a5ba34db51af077c71d2867d97570b304ee8525a769dd"
     }
   },
   "ferrite-core": {
