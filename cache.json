@@ -56,10 +56,10 @@
     }
   },
   "iris": {
-    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/W00rBT3R/iris-mc1.19.2-1.6.5.jar",
+    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/HzhiSGif/iris-mc1.19.2-1.6.6.jar",
     "hashes": {
-      "sha1": "db6208dd11c180e4680a87017938fbdb16f4ef3b",
-      "sha512": "a8cbfcc162e435b02a3cbd16981cecc2e5afc51c7bfafc6c0ae1197eaebb28a7e0e46b09fd0b9dcde47a9f9a26cb4e5693dc13e5a344a672b6db2ec2c1519f16"
+      "sha1": "6662ef4598971d8174c730d23841eaa954c46ba0",
+      "sha512": "9bde61c5fbcc2c2af72d662369a62d60b92acba0a529bcd5bddaa9c96b0d2fe98aac69d368007f33984eb58e4fced39c6b0b3fe878acf3cabf8ed100414d7a94"
     }
   },
   "item-model-fix": {
