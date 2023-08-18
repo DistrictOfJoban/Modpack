@@ -49,10 +49,10 @@
     }
   },
   "immediatelyfast": {
-    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/gAAnfzrT/ImmediatelyFast-1.1.27%2B1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yhuSOfHc/ImmediatelyFast-1.1.28%2B1.19.2.jar",
     "hashes": {
-      "sha1": "6216f753ac9141285dae30b1d4bc0b3b7d6448ca",
-      "sha512": "2beed76fe4bb81cd28f8bbaf4ddc79c03e97b52023efbe36cb5582d6675f28744d449f3dc9b0d9dfde90b4a4125048a70b74fab6b5a47ebd1480663401411c69"
+      "sha1": "7559ddb0cb1e7d2f498d2b46b3f4de451421cdd4",
+      "sha512": "e3021fd0bebb234515fb38556222680f2843a5b486727beeeb952a4ec0ce24a3614ce0e7e628bbc7519c13ce2d47ce1d3c9bf016e6e464452be460be506cf7f5"
     }
   },
   "iris": {
@@ -105,10 +105,10 @@
     }
   },
   "modernfix": {
-    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/YRcPOXZH/modernfix-fabric-5.6.1%2Bmc1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/wz12hVLM/modernfix-fabric-5.7.0%2Bmc1.19.2.jar",
     "hashes": {
-      "sha1": "764ce6269a8414c272b96e0880ca3ab1be2063a3",
-      "sha512": "c62daed552f9e0cbcfd3ac121d9254c91e7c3ccb771c3cb9c6472111c0b724000ae7fb57d42254b81a250705cc03beae0f23fdc3ba085d8ef71eff21d99cb542"
+      "sha1": "e4143c70006f9fde3d74d26413f6e274d8ac147b",
+      "sha512": "4f0c73ea6c68ee0f863486fe0ba14bf383f5991cd5f6233351df1a608981f600a44c64e52d03912d9e3956d739b0acf71c450d79056decb9efc08fa886db3456"
     }
   },
   "minecraft-transit-railway": {
