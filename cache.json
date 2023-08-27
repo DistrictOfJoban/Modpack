@@ -49,10 +49,10 @@
     }
   },
   "immediatelyfast": {
-    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/Tf6O7B9h/ImmediatelyFast-1.2.0%2B1.19.2.jar",
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/nSd5x28T/ImmediatelyFast-1.2.1%2B1.19.2.jar",
     "hashes": {
-      "sha1": "e545c77127d4de96ffef82e64999e984b6ced86d",
-      "sha512": "df01fd8f6a9ffa0ab335ba70212e5b9846ba2b7efcc08b146aa02766ec25addf262b84f267653bcacdc1029d1720980ec1ab5f76cb71311aaaeb05c907a2c242"
+      "sha1": "15e5f8907175aa268a5b2d8baf700bb3ec807746",
+      "sha512": "27bc5f2628e1330b7f7c72c68864224ebaf5e0de9b2218ea46c17e2c8d1de1da3c074af858a32b3665d7b681fa619be87a2763e8373b30b53fcb0b11461c3ecb"
     }
   },
   "iris": {
